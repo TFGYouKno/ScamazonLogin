@@ -1,0 +1,15 @@
+#bottom-links {
+    font-size: smaller;
+
+}
+
+#copy {
+    font-size: smaller;
+}
+body {
+    background-image: radial-gradient(rgb(228, 226, 226) 0%, rgb(241, 240, 240),white);
+}
+#cont1 {
+    background-color: white;
+    min-width: 100%
+}
